@@ -9,6 +9,6 @@ A map for Nairobi Cycling Paths.
 * Update your GitHub
 * Send a Pull Request to @C4DLabOrg
 
-However, if not conversant with GitHub, just email us the updated KML file, explaining the changes you've made. Email to cyclenairobi@c4dlab.ac.ke
+However, if not conversant with GitHub, just email us the updated KML file, explaining the changes you've made. Email to mobility@c4dlab.ac.ke
 
 >We will give credits to all the contributors
